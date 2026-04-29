@@ -135,7 +135,7 @@ export default function About() {
         <div className="relative aspect-[3/4]  p-4">
           <div className="relative w-full h-full">
             <Image
-              src="/paintings/image16.jpg"
+              src="/Paintings/image16.jpg"
               alt={artist.name}
               fill
               sizes="(max-width: 768px) 100vw, 33vw"
