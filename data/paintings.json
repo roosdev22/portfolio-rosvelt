@@ -120,7 +120,7 @@
       "technique": "Huile sur toile",
       "price": 2000,
       "available": true,
-      "image": "/Paintings/image01.jpg",
+      "image": "/Paintings/image01.JPG",
       "description": "Cette peinture est une composition de surréalisme lyrique qui fusionne des instruments de musique familiers avec un paysage onirique et vaporeux"
     },
     {
@@ -132,7 +132,7 @@
       "technique": "Huile ou Acrylique sur toile",
       "price": 2500,
       "available": true,
-      "image": "/Paintings/image02.jpg",
+      "image": "/Paintings/image02.JPG",
       "description": "Cette peinture monumentale s'inscrit dans un courant abstrait métaphysique. Elle utilise une palette harmonieuse de pourpres, de violets profonds et de bleus azur pour évoquer une dimension située au-delà du monde physique"
     },
     {
@@ -156,7 +156,7 @@
       "technique": "Huile sur toile",
       "price": 680,
       "available": true,
-      "image": "/Paintings/image26.jpg",
+      "image": "/Paintings/image17.jpg",
       "description": "Un voyage au cœur de la forme et du mouvement, ou la couleur devient souffle et la courbe devient vie"
     },
  
@@ -169,7 +169,7 @@
       "technique": "Huile sur toile",
       "price": 680,
       "available": true,
-      "image": "/Paintings/image03.jpg",
+      "image": "/Paintings/image03.JPG",
       "description": "Un voyage au cœur de la forme et du mouvement, ou la couleur devient souffle et la courbe devient vie"
     },
      {
@@ -229,7 +229,7 @@
       "technique": "Huile sur toile",
       "price": 680,
       "available": true,
-      "image": "/Paintings/image26.jpg",
+      "image": "/Paintings/image.jpeg",
       "description": "Un voyage au cœur de la forme et du mouvement, ou la couleur devient souffle et la courbe devient vie"
     } ,
        {
@@ -241,7 +241,7 @@
       "technique": "Acrylique",
       "price": 320,
       "available": true,
-      "image": "/Paintings/image05.jpg",
+      "image": "/Paintings/image05.JPG",
       "description": "Une composition surréaliste illustrant le passage et l'équilibre. Une arche centrale, gardée par des formes stylisées, invite à l'introspection entre ordre géométrique et fluidité organique"
     },
        {
