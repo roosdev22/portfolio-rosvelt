@@ -120,7 +120,7 @@
       "technique": "Huile sur toile",
       "price": 2000,
       "available": true,
-      "image": "/paintings/image01.jpg",
+      "image": "/Paintings/image01.jpg",
       "description": "Cette peinture est une composition de surréalisme lyrique qui fusionne des instruments de musique familiers avec un paysage onirique et vaporeux"
     },
     {
@@ -132,7 +132,7 @@
       "technique": "Huile ou Acrylique sur toile",
       "price": 2500,
       "available": true,
-      "image": "/paintings/image02.jpg",
+      "image": "/Paintings/image02.jpg",
       "description": "Cette peinture monumentale s'inscrit dans un courant abstrait métaphysique. Elle utilise une palette harmonieuse de pourpres, de violets profonds et de bleus azur pour évoquer une dimension située au-delà du monde physique"
     },
     {
@@ -144,7 +144,7 @@
       "technique": "Huile sur toile",
       "price": 1000,
       "available": false,
-      "image": "/paintings/image20.jpg",
+      "image": "/Paintings/image20.jpg",
       "description": "L'énergie et les couleurs d'un marché haïtien"
     },
     {
@@ -156,7 +156,7 @@
       "technique": "Huile sur toile",
       "price": 680,
       "available": true,
-      "image": "/paintings/image26.jpg",
+      "image": "/Paintings/image26.jpg",
       "description": "Un voyage au cœur de la forme et du mouvement, ou la couleur devient souffle et la courbe devient vie"
     },
  
@@ -169,7 +169,7 @@
       "technique": "Huile sur toile",
       "price": 680,
       "available": true,
-      "image": "/paintings/image03.jpg",
+      "image": "/Paintings/image03.jpg",
       "description": "Un voyage au cœur de la forme et du mouvement, ou la couleur devient souffle et la courbe devient vie"
     },
      {
@@ -181,7 +181,7 @@
       "technique": "Huile ou Acrylique sur toile",
       "price": 320,
       "available": true,
-      "image": "/paintings/image2.jpg",
+      "image": "/Paintings/image2.jpg",
       "description": "Cette peinture monumentale s'inscrit dans un courant abstrait métaphysique. Elle utilise une palette harmonieuse de pourpres, de violets profonds et de bleus azur pour évoquer une dimension située au-delà du monde physique"
     },
     {
@@ -193,7 +193,7 @@
       "technique": "Huile sur toile",
       "price": 680,
       "available": true,
-      "image": "/paintings/image18.jpg",
+      "image": "/Paintings/image18.jpg",
       "description": "L'énergie et les couleurs d'un marché haïtien"
     },
     {
@@ -205,7 +205,7 @@
       "technique": "Acrylique",
       "price": 320,
       "available": true,
-      "image": "/paintings/image21.jpg",
+      "image": "/Paintings/image21.jpg",
       "description": "Une composition surréaliste illustrant le passage et l'équilibre. Une arche centrale, gardée par des formes stylisées, invite à l'introspection entre ordre géométrique et fluidité organique"
     },
     {
@@ -217,7 +217,7 @@
       "technique": "Huile sur toile",
       "price": 680,
       "available": true,
-      "image": "/paintings/image25.jpg",
+      "image": "/Paintings/image25.jpg",
       "description": "Un voyage au cœur de la forme et du mouvement, ou la couleur devient souffle et la courbe devient vie"
     },
        {
@@ -229,7 +229,7 @@
       "technique": "Huile sur toile",
       "price": 680,
       "available": true,
-      "image": "/paintings/image26.jpg",
+      "image": "/Paintings/image26.jpg",
       "description": "Un voyage au cœur de la forme et du mouvement, ou la couleur devient souffle et la courbe devient vie"
     } ,
        {
@@ -241,7 +241,7 @@
       "technique": "Acrylique",
       "price": 320,
       "available": true,
-      "image": "/paintings/image05.jpg",
+      "image": "/Paintings/image05.jpg",
       "description": "Une composition surréaliste illustrant le passage et l'équilibre. Une arche centrale, gardée par des formes stylisées, invite à l'introspection entre ordre géométrique et fluidité organique"
     },
        {
@@ -253,7 +253,7 @@
       "technique": "Huile sur toile",
       "price": 680,
       "available": true,
-      "image": "/paintings/image21.jpg",
+      "image": "/Paintings/image21.jpg",
       "description": "Un voyage au cœur de la forme et du mouvement, ou la couleur devient souffle et la courbe devient vie"
     }   
   ],
@@ -267,7 +267,7 @@
       "technique": "Huile sur toile",
       "price": 4000,
       "available": false,
-      "image": "/paintings/image.jpeg",
+      "image": "/Paintings/image.jpeg",
       "description": "Cette œuvre met en scène une figure féminine fusionnée avec l’univers musical, symbole d’harmonie entre le corps, le rythme et l’âme"
     },
    {
@@ -279,7 +279,7 @@
       "technique": "Huile sur toile",
       "price": 3000,
       "available": false,
-      "image": "/paintings/image30.png",
+      "image": "/Paintings/image30.png",
       "description": "Un voyage au cœur de la forme et du mouvement, ou la couleur devient souffle et la courbe devient vie"
    },
    {
@@ -291,7 +291,7 @@
       "technique": "Huile sur toile",
       "price": 2000,
       "available": false,
-      "image": "/paintings/image3.jpg",
+      "image": "/Paintings/image3.jpg",
       "description": "Un voyage au cœur de la forme et du mouvement, ou la couleur devient souffle et la courbe devient vie"
    }
   ]
